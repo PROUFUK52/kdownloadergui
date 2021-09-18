@@ -1,0 +1,8 @@
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\KDownloaderGUI\KDownloaderGUI\bin\Debug\KDownloaderGUI.exe.config
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\KDownloaderGUI\KDownloaderGUI\bin\Debug\KDownloaderGUI.exe
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\KDownloaderGUI\KDownloaderGUI\bin\Debug\KDownloaderGUI.pdb
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\KDownloaderGUI\KDownloaderGUI\obj\Debug\KDownloaderGUI.csprojResolveAssemblyReference.cache
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\KDownloaderGUI\KDownloaderGUI\obj\Debug\KDownloaderGUI.MainForm.resources
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\KDownloaderGUI\KDownloaderGUI\obj\Debug\KDownloaderGUI.csproj.GenerateResource.Cache
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\KDownloaderGUI\KDownloaderGUI\obj\Debug\KDownloaderGUI.exe
+C:\Users\Ufcuk\Documents\SharpDevelop Projects\KDownloaderGUI\KDownloaderGUI\obj\Debug\KDownloaderGUI.pdb
